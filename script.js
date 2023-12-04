@@ -1,8 +1,8 @@
 const person = {
-    profile_pic: "./image/ameen.jpeg",
+    profile_pic: "./image/navigo.jpg",
     profile_logo: "./image/navigo.jpg",
 
-    Name: "Hashim ",
+    Name: "Navigo",
     designation: "Director",
     des_link_text: "@Navigo_trips",
     des_link: "https://navigotrips.com/",
@@ -13,9 +13,14 @@ const contact ={
     contact_no: "+917909151146",
     whatsapp: "+917909151146",
     location: "",
-    mail: "go@navigotrips.com",
+    email: "go@navigotrips.com",
 };
 
+const profilelogo=[
+  logo={
+    visibil: false,
+  }
+]
 
 
 const links =[
@@ -33,7 +38,7 @@ const links =[
   },
     web={
     visibil: true,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    link:"https://navigotrips.com/"
   },
     linkedin={
     visibil: false,
@@ -52,7 +57,7 @@ const links =[
     link:"go@navigotrips.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://navigotrips.com/"
   },
     telegram={
