@@ -3,7 +3,7 @@ const person = {
     profile_logo: "./image/navigo.jpg",
 
     Name: "Navigo",
-    designation: "Director",
+    designation: "",
     des_link_text: "@Navigo_trips",
     des_link: "https://navigotrips.com/",
     contact: "./contact/Haris Husain.vcf",
